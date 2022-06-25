@@ -41,4 +41,8 @@
 
 # My Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [How to use your crypto.com card with Apple/Google/Samsung pay and get cashback everytime](https://biercoff.com/how-to-add-cryptocom-card-to-apple-pay/)
+- [Gitlab v14 introduces a breaking change to secrets detection job](https://biercoff.com/gitlab-v14-introduces-a-breaking-change-to-secrets-detection-templates/)
+- [Fixing next.js export path to assets issue](https://biercoff.com/fixing-next-js-export-path-to-assets-issue/)
+- [Generating JSON Schema in Java with &quot;additionalProperties&quot; set to &quot;true&quot;](https://biercoff.com/generating-json-schema-in-java-with-additionalproperties-set-to-true/)
 <!-- BLOG-POST-LIST:END -->
