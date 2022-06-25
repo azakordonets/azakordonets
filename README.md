@@ -23,11 +23,11 @@
 <img align="left" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e"/>
 <img align="left" src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white"/>
-<br/><br/>
+<br/>
+<br/>
 
 ## Things I would like to learn in the nearest future
 <img align="left" src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-
 <br/>
 
 ## Tooling that I love to use
@@ -37,7 +37,8 @@
 <img align="left" src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black"/>
 <img align="left" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/>
 <img align="left" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
+<br/>
+<br/>
 
 # My Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
