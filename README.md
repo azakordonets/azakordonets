@@ -1,14 +1,7 @@
 # Hi, I'm Andrew 👋
-<table>
-  <tr>
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=azakordonets&count_private=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=azakordonets&count_private=true&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-    <tr>
-    <td><img height="200" src="https://github-readme-stats.vercel.app/api/wakatime?username=biercoff&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-  </tr>
-</table>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=azakordonets&count_private=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=biercoff&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> 
 
 ## Stack I'm currently working with
 <img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
