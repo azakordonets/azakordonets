@@ -1,7 +1,14 @@
 # Hi, I'm Andrew 👋
+I work as a Software Engineer in [New10](https://new10.com)
+
+</br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=azakordonets&count_private=true&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=biercoff&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/> 
+
+[![Twitter: biercoff_enn](https://img.shields.io/twitter/follow/biercoff_enn?style=social)](https://twitter.com/biercoff_enn)
+[![Linkedin: azakordonets](https://img.shields.io/badge/-azakordonets-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/azakordonets/)](https://www.linkedin.com/in/azakordonets/)
+[![GitHub azakordonets](https://img.shields.io/github/followers/azakordonets?label=follow&style=social)](https://github.com/azakordonets)
 
 ## Stack I'm currently working with
 <img align="left" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
