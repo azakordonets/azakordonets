@@ -42,8 +42,8 @@ I work as a Software Engineer in [New10](https://new10.com)
 
 # My Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Fixing &quot;The following signatures couldn&#39;t be verified because the public key is not available: NO_PUBKEY: %s&quot; error](https://biercoff.com/fixing-2/)
 - [How to use your crypto.com card with Apple/Google/Samsung pay and get cashback everytime](https://biercoff.com/how-to-add-cryptocom-card-to-apple-pay/)
 - [Gitlab v14 introduces a breaking change to secrets detection job](https://biercoff.com/gitlab-v14-introduces-a-breaking-change-to-secrets-detection-templates/)
 - [Fixing next.js export path to assets issue](https://biercoff.com/fixing-next-js-export-path-to-assets-issue/)
-- [Generating JSON Schema in Java with &quot;additionalProperties&quot; set to &quot;true&quot;](https://biercoff.com/generating-json-schema-in-java-with-additionalproperties-set-to-true/)
 <!-- BLOG-POST-LIST:END -->
