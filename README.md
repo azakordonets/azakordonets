@@ -42,8 +42,8 @@ I work as a Software Engineer in [New10](https://new10.com)
 
 # My Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Running Jest tests in parallel in Gitlab with multiple jobs](https://biercoff.com/running-jest-tests-in-parallel-in-gitlab-with-multiple-jobs/)
 - [Fixing &quot;The following signatures couldn&#39;t be verified because the public key is not available: NO_PUBKEY: %s&quot; error](https://biercoff.com/fixing-2/)
 - [How to use your crypto.com card with Apple/Google/Samsung pay and get cashback everytime](https://biercoff.com/how-to-add-cryptocom-card-to-apple-pay/)
 - [Gitlab v14 introduces a breaking change to secrets detection job](https://biercoff.com/gitlab-v14-introduces-a-breaking-change-to-secrets-detection-templates/)
-- [Fixing next.js export path to assets issue](https://biercoff.com/fixing-next-js-export-path-to-assets-issue/)
 <!-- BLOG-POST-LIST:END -->
