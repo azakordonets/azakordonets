@@ -42,8 +42,8 @@ I work as a Software Engineer in [New10](https://new10.com)
 
 # My Blog Posts 📚
 <!-- BLOG-POST-LIST:START -->
+- [Measuring elapsed time in milliseconds in bash](https://biercoff.com/measuring-elapsed-time-in-milliseconds-in-bash/)
 - [Cmd+Shift+A &lpar; Find Action &rpar; opens Terminal with some weird error in Intellij product](https://biercoff.com/cmd-shift-a-opens-terminal/)
 - [Running Jest tests in parallel in Gitlab with multiple jobs](https://biercoff.com/running-jest-tests-in-parallel-in-gitlab-with-multiple-jobs/)
 - [Fixing &quot;The following signatures couldn&#39;t be verified because the public key is not available: NO_PUBKEY: %s&quot; error](https://biercoff.com/fixing-2/)
-- [How to use your crypto.com card with Apple/Google/Samsung pay and get cashback everytime](https://biercoff.com/how-to-add-cryptocom-card-to-apple-pay/)
 <!-- BLOG-POST-LIST:END -->
